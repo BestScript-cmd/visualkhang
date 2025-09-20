@@ -1,12 +1,12 @@
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "Hdat Hub",
+    Name = "Khang Hub",
     LoadingTitle = "Khngscript Loading...",
     LoadingSubtitle = "by Khangdz28",
     ConfigurationSaving = {
         Enabled = true,
-        FolderName = "HdatHub",
+        FolderName = "KhngHub",
         FileName = "Config"
     },
     KeySystem = false,
